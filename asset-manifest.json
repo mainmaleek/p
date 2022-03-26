@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.acc2554b.chunk.css",
-    "main.js": "/static/js/main.dea19575.chunk.js",
-    "main.js.map": "/static/js/main.dea19575.chunk.js.map",
+    "main.css": "/static/css/main.6c05040a.chunk.css",
+    "main.js": "/static/js/main.eba01437.chunk.js",
+    "main.js.map": "/static/js/main.eba01437.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.16dcdcf9.js",
     "runtime-main.js.map": "/static/js/runtime-main.16dcdcf9.js.map",
-    "static/js/2.5133517b.chunk.js": "/static/js/2.5133517b.chunk.js",
-    "static/js/2.5133517b.chunk.js.map": "/static/js/2.5133517b.chunk.js.map",
+    "static/js/2.1033353b.chunk.js": "/static/js/2.1033353b.chunk.js",
+    "static/js/2.1033353b.chunk.js.map": "/static/js/2.1033353b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7b886235620f0ffd503683b16f3d9a18.js": "/precache-manifest.7b886235620f0ffd503683b16f3d9a18.js",
+    "precache-manifest.cb6e017c5b8a7f88cf03d63ec4d58f88.js": "/precache-manifest.cb6e017c5b8a7f88cf03d63ec4d58f88.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.acc2554b.chunk.css.map": "/static/css/main.acc2554b.chunk.css.map",
-    "static/js/2.5133517b.chunk.js.LICENSE.txt": "/static/js/2.5133517b.chunk.js.LICENSE.txt",
+    "static/css/main.6c05040a.chunk.css.map": "/static/css/main.6c05040a.chunk.css.map",
+    "static/js/2.1033353b.chunk.js.LICENSE.txt": "/static/js/2.1033353b.chunk.js.LICENSE.txt",
     "static/media/arm.png": "/static/media/arm.664ba826.png",
+    "static/media/index.css": "/static/media/award_bg.60e74f5c.jpeg",
     "static/media/back-side.png": "/static/media/back-side.efbe8169.png",
     "static/media/back_sided-new.png": "/static/media/back_sided-new.8f8c0517.png",
     "static/media/chat.png": "/static/media/chat.c4158b64.png",
@@ -22,6 +23,7 @@
     "static/media/front-sided.png": "/static/media/front-sided.6647d3e9.png",
     "static/media/front-strieght.png": "/static/media/front-strieght.84d7cafb.png",
     "static/media/front_sided_power_btn_focus.png": "/static/media/front_sided_power_btn_focus.7ea607ee.png",
+    "static/media/lhgp_logo.jpeg": "/static/media/lhgp_logo.435d416b.jpeg",
     "static/media/load_support.png": "/static/media/load_support.4f831441.png",
     "static/media/pinch.png": "/static/media/pinch.bf2cd10f.png",
     "static/media/side-potrait.png": "/static/media/side-potrait.2c36d09d.png",
@@ -32,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.16dcdcf9.js",
-    "static/js/2.5133517b.chunk.js",
-    "static/css/main.acc2554b.chunk.css",
-    "static/js/main.dea19575.chunk.js"
+    "static/js/2.1033353b.chunk.js",
+    "static/css/main.6c05040a.chunk.css",
+    "static/js/main.eba01437.chunk.js"
   ]
 }
